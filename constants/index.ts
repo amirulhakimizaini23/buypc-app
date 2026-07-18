@@ -31,7 +31,7 @@ import coleslaw from "@/assets/images/coleslaw.png";
 import cucumber from "@/assets/images/cucumber.png";
 import emptyState from "@/assets/images/empty-state.png";
 import fries from "@/assets/images/fries.png";
-import loginGraphic from "@/assets/images/login-graphic.png";
+import designone from "@/assets/images/designOne.png";
 import logo from "@/assets/images/logo.png";
 import mozarellaSticks from "@/assets/images/mozarella-sticks.png";
 import mushrooms from "@/assets/images/mushrooms.png";
@@ -166,7 +166,7 @@ export const images = {
     cucumber,
     emptyState,
     fries,
-    loginGraphic,
+    designone,
     logo,
     mozarellaSticks,
     mushrooms,
